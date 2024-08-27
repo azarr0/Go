@@ -1,0 +1,11 @@
+@import "assets/styles/normalize.css";
+@import "assets/styles/default.css";
+@import "assets/styles/fonts.css";
+@import "assets/styles/hero.css";
+@import "assets/styles/halls.css";
+@import "assets/styles/reservation.css";
+@import "assets/styles/about.css";
+@import "assets/styles/feedbacks.css";
+
+@import "assets/styles/faq.css";
+@import "assets/styles/contacts.css";
